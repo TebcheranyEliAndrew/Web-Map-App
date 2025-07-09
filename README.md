@@ -4,6 +4,7 @@
 ![Flask](https://img.shields.io/badge/flask-2.0+-green.svg)
 ![Folium](https://img.shields.io/badge/folium-0.12+-brightgreen.svg)
 ![Geopy](https://img.shields.io/badge/geopy-2.2+-lightgrey.svg)
+![HTML](https://img.shields.io/badge/html-5+-orange.svg)
 
 ## 📌 Overview
 
