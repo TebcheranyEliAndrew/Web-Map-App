@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-2.0+-green.svg)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 MapApp is a web application built with Flask that allows users to visualize locations on an interactive map, calculate distances between points, and display connection lines with distance markers.
 
