@@ -18,6 +18,7 @@ This dynamic map allows users to input two custom locations of their choice. Onc
 - HTML
 - CSS
 - JavaScript
+- Flask library
 
 
 ## Usage
