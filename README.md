@@ -34,4 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-![Map App Demo](screenshot.png)
+![Map App Demo](Screenshot 2025-08-30 160308.png)
