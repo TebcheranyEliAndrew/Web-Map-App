@@ -32,6 +32,4 @@ This dynamic map allows users to input two custom locations of their choice. Onc
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Screenshots
 
-![Map App Demo](Screenshot 2025-08-30 160308.png)
